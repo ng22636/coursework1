@@ -1,4 +1,4 @@
-# Data Science Toolbox Assessed Coursework 1: Supervised Prediction
+![image](https://github.com/user-attachments/assets/8ef72de0-c712-416b-a82e-b0cacdb183e2)# Data Science Toolbox Assessed Coursework 1: Supervised Prediction
 
 ## Project Group
 
@@ -6,10 +6,6 @@
 - Sheridan Heywood (ym21803)
 - Eli Miller (fp21952)
 - Daniel Tse (ng22636)
-
-The equity split is 30/30/30/10 between VP, SH, EM, DT. 
-
-(On 28 October 13:15, we finished the project as a 3-person project with 38/31/31 split between VP, SH, EM. If the project is marked considering this, please use a snapshot of the repository from this date.)
 
 ## Reading order and requirements
 
@@ -44,3 +40,4 @@ Our working is shown in our own directories,
 * VivekP
 * SheridanH
 * EliM
+* DanielT
