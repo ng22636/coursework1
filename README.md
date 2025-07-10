@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8ef72de0-c712-416b-a82e-b0cacdb183e2)# Data Science Toolbox Assessed Coursework 1: Supervised Prediction
+# Data Science Toolbox Assessed Coursework 1: Supervised Prediction
 
 ## Project Group
 
